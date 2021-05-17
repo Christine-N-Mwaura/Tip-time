@@ -7,4 +7,6 @@
     <string name="good_service">Good (18%)</string>
     <string name="amazing_service">Amazing (20%)</string>
     <string name="cost_of_service_hint">Cost of Service</string>
+    <string name="tip_amount">Tip Amount: %s</string>
+
 </resources>
